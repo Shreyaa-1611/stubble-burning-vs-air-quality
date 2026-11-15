@@ -4,7 +4,7 @@
 
 An interactive Tableau dashboard that tests whether crop-residue fires in Punjab and Haryana line up with air-quality spikes in Delhi and other Indian cities during the Oct-Nov burning seasons of 2015-2019.
 
-**Live dashboard:** [Tableau Public link]
+**Live dashboard:** [https://public.tableau.com/views/StubbleBurningvsAirQualityPunjabHaryanatoDelhi/DoesPunjabsstubbleburningchokeDelhisair?:language=en-GB&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link]
 
 ![Dashboard](dashboard.png)
 
