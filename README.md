@@ -57,4 +57,4 @@ B.E. Computer Science and Engineering (AI & ML), Chandigarh University
 
 Project created as part of the Business Intelligence Tools course assessment.
 
-Connect with me on LinkedIn: [add your profile link]
+Connect with me on LinkedIn: [https://www.linkedin.com/in/shreya-mishra-60242036b/]
