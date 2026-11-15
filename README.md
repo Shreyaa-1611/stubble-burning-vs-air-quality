@@ -6,7 +6,7 @@ An interactive Tableau dashboard that tests whether crop-residue fires in Punjab
 
 **Live dashboard:** [https://public.tableau.com/views/StubbleBurningvsAirQualityPunjabHaryanatoDelhi/DoesPunjabsstubbleburningchokeDelhisair?:language=en-GB&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link]
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Question
 Do spikes in satellite-detected fires in Punjab and Haryana coincide with worse air quality in downwind cities, and with what delay?
